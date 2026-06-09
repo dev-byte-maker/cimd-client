@@ -1,0 +1,9 @@
+{
+  "client_id": "REPLACE_WITH_YOUR_HOSTED_URL/oauth-client-metadata.json",
+  "client_name": "General LangChain Agent",
+  "redirect_uris": ["http://localhost:3030/callback"],
+  "grant_types": ["authorization_code"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "scope": ""
+}
